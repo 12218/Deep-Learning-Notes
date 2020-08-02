@@ -11,4 +11,4 @@
 | 序号 |                             内容                             |  更新时间  |
 | :--: | :----------------------------------------------------------: | :--------: |
 |  01  | [Numpy科学计算库](https://github.com/12218/Deep-Learning-Notes/tree/master/Numpy) | 2020.07.29 |
-
+|  01  | [Matplotlib数据可视化](https://github.com/12218/Deep-Learning-Notes/tree/master/Matplotlib) | 2020.08.02 |
