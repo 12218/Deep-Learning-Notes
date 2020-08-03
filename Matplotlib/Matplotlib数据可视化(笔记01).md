@@ -1,3 +1,4 @@
+﻿@[TOC](这里写目录标题)
 # Matplotlib数据可视化
 ```python
 import matplotlib.pyplot as plt # 导入pyplot子库
